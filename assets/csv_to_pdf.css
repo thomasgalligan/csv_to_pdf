@@ -1,0 +1,58 @@
+body {
+    font-family: "Helvetica";
+    text-align: center;
+}
+
+.header_logo {
+    margin-top: 20px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.header_logo img {
+    width: 170px;
+}
+
+.main_div {
+    text-align: left;
+}
+
+
+table {
+    margin-top: 20px;
+    font-size: 12pt;
+}
+
+.tableA {
+    font-size: 10pt;
+    vertical-align: top;
+}
+
+.tableB {
+    margin-top: 60px;
+    font-size: 10pt;
+}
+
+.tableC {
+    margin-top: 100px;
+    font-size: 10pt;
+}
+
+.tableD {
+    margin-top: 350px;
+    font-size: 8pt;
+}
+
+span {
+    white-space: pre;
+}
+
+.onethird {
+    width: 30%;
+    vertical-align: top;
+}
+
+.twothird {
+    width: 70%;
+    vertical-align: top;
+}

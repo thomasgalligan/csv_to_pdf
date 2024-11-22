@@ -1,0 +1,4 @@
+fund_name,instruction_type,currency_code,amount,trade_date,value_date,debit_account,credit_account,signatory_one,list_one,signatory_two,list_two
+CH-EU Bond,Subscription,EUR,15000000,25/11/2024,27/11/2024,MIFL,Bluebay,Diarmuid McLoughlin,List B,Michael Griffin,List C
+CH-EU Income,Subscription,EUR,16550000,25/11/2024,27/11/2024,MIFL,Neuberger,Diarmuid McLoughlin,List B,Michael Griffin,List C
+,,,,,,,,,,,
